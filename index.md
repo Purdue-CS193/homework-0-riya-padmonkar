@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 - No quizzes or exams
 - Having a funny instructor
-- Acessability to resources
+- Accesibility to resources
 
 ```markdown
 Syntax highlighted code block
